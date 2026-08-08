@@ -95,19 +95,19 @@
       "path": "drawings/a3-booklet.pdf",
       "role": "drawing",
       "required": true,
-      "sha256": "077f8dffb9b7f28b5b19b1e6a9a9a3e2825d14cdc04b2c02b2c72336496b55f1"
+      "sha256": "af84035f451e64ed8735cedd66ebdac948cb92b607f6ada137a485bbacf8867f"
     },
     {
       "path": "drawings/a0-boards.pdf",
       "role": "drawing",
       "required": true,
-      "sha256": "77135b7f7fcdbc6763c50fb8141e98fcf204cba5a0e32f39b044f5a511550d54"
+      "sha256": "f01e36c9aed3816f7de2358c0ebed25d41b38bbe3d6039e60acd61c33969768f"
     },
     {
       "path": "visual/index.html",
       "role": "visualization",
       "required": true,
-      "sha256": "af066c1e340ebb407185bd399148dede75a3e0fc0c13f013464d110e808923cc"
+      "sha256": "58d5282042c04478e63ab195885e661946864c23925a317ce589d00cb014b84a"
     },
     {
       "path": "assets/figures/key-areas.png",
@@ -119,7 +119,7 @@
       "path": "assets/figures/land-use-structure.png",
       "role": "proposal_figure",
       "required": true,
-      "sha256": "29f98fbfeab0c848cac1bf8b41c673c88c59334ca32537d9e6993c05c1f3bd52"
+      "sha256": "ca9407445152d87f401d2b34eae5bb1cc6e98edd1a8d8b8c3f230432c68e49b1"
     },
     {
       "path": "assets/figures/metrics-evidence.png",
